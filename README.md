@@ -10,7 +10,7 @@ Welcome to the **Retail & Customer Analytics Data Systems Assignment**! This han
 
 In this assignment, students act as Database Architects and Data Analysts for an e-commerce enterprise. You are provided with 6 unlinked raw datasets (`.csv` files) representing different operational domains of the business. 
 
-Your task is to:
+Your task is to
 1. **Analyze & Model:** Review the raw file schemas, establish proper data types, define Primary Keys (PKs), and set up Foreign Key (FK) relationships.
 2. **Build Database:** Write standard MySQL Data Definition Language (`CREATE TABLE`) scripts and load the provided data.
 3. **Analyze Data:** Write structured SQL queries to solve multi-table business analytical problems without relying on database views or window functions.
